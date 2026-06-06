@@ -4,7 +4,7 @@ Terraform = declarative language. Official workflow: **Write -> Plan -> Apply**.
 
 ## Basics
 ```bash
-type nul > main.tf            # create empty file (Windows; use `touch main.tf` on Linux/Mac)
+type nul > main.tf            # create empty file
 
 terraform fmt                 # format all .tf files in current dir
 terraform fmt -recursive      # include subdirectories

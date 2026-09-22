@@ -5,3 +5,4 @@ Welcome to my 30-day journey of exploring Terraform to master Infrastructure as 
 ## Progress
 
 - [Day 1: Why infrastructure as code](day-01.md)
+- [Day 2: Installing and the first config](day-02.md)

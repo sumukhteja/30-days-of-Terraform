@@ -8,3 +8,4 @@ Welcome to my 30-day journey of exploring Terraform to master Infrastructure as 
 - [Day 2: Installing and the first config](day-02.md)
 - [Day 3: Providers](day-03.md)
 - [Day 4: Versions and the lock file](day-04.md)
+- [Day 5: The core workflow](day-05.md)

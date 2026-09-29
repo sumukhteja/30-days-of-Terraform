@@ -11,3 +11,4 @@ Welcome to my 30-day journey of exploring Terraform to master Infrastructure as 
 - [Day 5: The core workflow](day-05.md)
 - [Day 6: Resources and references](day-06.md)
 - [Day 7: Data sources](day-07.md)
+- [Day 8: Dependencies](day-08.md)
